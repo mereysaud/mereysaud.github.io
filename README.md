@@ -1,6 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-	<head>
+<head>
 			<meta charset="utf-8" />
 			<title>From Manus Island to the U.S.</title>
 			<meta property="og:title" content="From Manus Island to the U.S.">
