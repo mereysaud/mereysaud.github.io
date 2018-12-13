@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ site.lang | default: "en-US" }}">
 	<head>
 	<title>From Manus Island to the U.S.</title>
 	<meta charset="utf-8" />
